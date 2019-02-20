@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPA_pucg1_Calculator</string>
+    <string name="class1">Class 1:</string>
+    <string name="class2">Class 2:</string>
+    <string name="class3">Class 3:</string>
+    <string name="class4">Class 4:</string>
+    <string name="class5">Class 5:</string>
+    <string name="welcome">Welcome! Lets see if you are smart by calculating your GPA!</string>
+    <string name="Calculate">Calculate GPA</string>
+    <string name="Clear">Clear</string>
+    <string name="Gpa">Your GPA:</string>
+    <string name="Grade">Enter your grade</string>
+</resources>
